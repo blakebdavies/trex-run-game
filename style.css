@@ -33,6 +33,12 @@
     }
 }
 
+#alert {
+    font-family: "American Typewriter";
+    font-size: 50px;
+    text-align: center;
+}
+
 #desert {
     position: absolute;
     bottom: 0px;
